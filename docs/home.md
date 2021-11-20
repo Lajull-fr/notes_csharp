@@ -1,4 +1,4 @@
-# C#
+# Mes notes sur le C#
 
 ```csharp
    public class Derivee : Ancetre
