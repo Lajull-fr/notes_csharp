@@ -1,6 +1,6 @@
-# Docsify Open MultiCourse Starter Kit
+# Saisie de notes pour avoir un support en ligne en utilisant Docsify.
 
-[![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
+# Docsify Open MultiCourse Starter Kit
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/blob/main/LICENSE)
 
 
