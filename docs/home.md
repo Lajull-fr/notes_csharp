@@ -3,12 +3,13 @@
 ```csharp
 Public class Vehicule // penser à mettre public pour l'accessibilité sur le/les projet(s)
 {
+    #région Propriétés (snipet: prop tab_tab)
     // Propriétés relative aux caractèristiques de la classe.
     // Publiques car elles pouront être pertinentes hors de la classes => Heritage (Dérivation), Classe Abstraite et/ou polymorphisme.
     
-    public string FirstName { get; private set; }
-    public string LastName { get; private set; }
-    public int Experience { get; private set; }
+    public string Marque { get; private set; }
+    public string Modèle { get; private set; }
+    public int Cylindrée { get; private set; }
 
     // Propriétés relative à l'expérience du chef.
     // Privées car elles ne concenent que le fonctionnement interne de la classe, et ne doivent pas être accessible de l'extérieur.
