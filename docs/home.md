@@ -1,10 +1,11 @@
 # Mes notes sur le C#
 
 ```csharp
-class Chef
+Public class Vehicule // penser à mettre public pour l'accessibilité sur le/les projet(s)
 {
-    // Propriétés relative aux caractèristiques du chef.
-    // Publiques car elles pouront être pertinentes hors de la classes.
+    // Propriétés relative aux caractèristiques de la classe.
+    // Publiques car elles pouront être pertinentes hors de la classes => Heritage (Dérivation), Classe Abstraite et/ou polymorphisme.
+    
     public string FirstName { get; private set; }
     public string LastName { get; private set; }
     public int Experience { get; private set; }
